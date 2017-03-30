@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.reportBetaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 42.635 sec <<< FAILURE! - in tests.reportBetaTest
+linkCheck(tests.reportBetaTest)  Time elapsed: 42.633 sec  <<< FAILURE!
+com.applitools.eyes.TestFailedException: 'Report Beta' of 'QL Credit'. See details at https://eyes.applitools.com/app/sessions/00000251917454257455/00000251917454256886?accountId=R5gtd2j8Mk6-SZVqIalNKQ~~
+	at tests.reportBetaTest.linkCheck(reportBetaTest.java:62)
+

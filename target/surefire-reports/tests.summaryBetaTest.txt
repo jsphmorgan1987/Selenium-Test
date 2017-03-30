@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.summaryBetaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 74.289 sec <<< FAILURE! - in tests.summaryBetaTest
+linkCheck(tests.summaryBetaTest)  Time elapsed: 74.288 sec  <<< FAILURE!
+com.applitools.eyes.TestFailedException: 'Summary Beta' of 'QL Credit'. See details at https://eyes.applitools.com/app/sessions/00000251917454218129/00000251917454217676?accountId=R5gtd2j8Mk6-SZVqIalNKQ~~
+	at tests.summaryBetaTest.linkCheck(summaryBetaTest.java:81)
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.betaEnvironment.summaryBetaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 56.76 sec - in tests.betaEnvironment.summaryBetaTest

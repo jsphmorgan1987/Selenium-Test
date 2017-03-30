@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.preLoginPagesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 46.917 sec <<< FAILURE! - in tests.preLoginPagesTest
+linkCheck(tests.preLoginPagesTest)  Time elapsed: 46.913 sec  <<< FAILURE!
+com.applitools.eyes.TestFailedException: 'preLoginPages' of 'QL Credit'. See details at https://eyes.applitools.com/app/sessions/00000251917459826704/00000251917459826407?accountId=R5gtd2j8Mk6-SZVqIalNKQ~~
+	at tests.preLoginPagesTest.linkCheck(preLoginPagesTest.java:106)
+

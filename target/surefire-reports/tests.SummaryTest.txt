@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.SummaryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 71.676 sec <<< FAILURE! - in tests.SummaryTest
+linkCheck(tests.SummaryTest)  Time elapsed: 71.676 sec  <<< FAILURE!
+com.applitools.eyes.TestFailedException: 'Summary' of 'QL Credit'. See details at https://eyes.applitools.com/app/sessions/00000251917460316650/00000251917460315775?accountId=R5gtd2j8Mk6-SZVqIalNKQ~~
+	at tests.SummaryTest.linkCheck(SummaryTest.java:82)
+

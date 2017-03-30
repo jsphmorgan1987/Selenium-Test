@@ -1,0 +1,8 @@
+tests\groups\Beta.class
+testPageObjects\Trending.class
+tests\groups\All.class
+testPageObjects\Summary.class
+testPageObjects\preLoginPages.class
+tests\groups\Test.class
+testPageObjects\accountCreate.class
+testPageObjects\Report.class
